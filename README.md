@@ -10,7 +10,7 @@ Adobe Acrobat does not have many built-in shortcuts for adding or modifying tags
 
 ## The Built-In Shortcuts
 
-Note that because the context menu changes depening on where you right click in Adobe and what you're doing at the time, the marking shortcuts only work when you're using the Fix Reading Order tool and have selected content to mark. The rest only work while in the Accessibility Tags tree sidebar.
+Note that because the context menu changes depening on where you right click in Adobe and what you're doing at the time, the marking shortcuts only work when you're using the Fix Reading Order tool and have selected content to mark. The rest only work while in the Accessibility Tags tree sidebar. For a fuller explanation of using these shortcuts, see [Tagging in Acrobat From The Keyboard](https://brhfl.com/2017/04/acrobat-tagging-shortcuts/).
 
 | Shortcut                    | Function                                                       |
 | --------------------------- | -------------------------------------------------------------- |
