@@ -48,4 +48,4 @@ Note that because the context menu changes depening on where you right click in 
 
 ## How To Customize
 
-You can chanage what keys are mapped to what shortcuts by changing the key before the double colon in the script. For help, see [AutoHotkey's full instructions](https://www.autohotkey.com/docs/v2/KeyList.htm).
+You can change what keys are mapped to what shortcuts by changing the key before the double colon in the script. For help, see [AutoHotkey's full instructions](https://www.autohotkey.com/docs/v2/KeyList.htm).
